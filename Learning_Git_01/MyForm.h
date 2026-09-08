@@ -12,6 +12,7 @@ namespace LearningGit01 {
 	using namespace System::Windows::Forms;
 	using namespace System::Data;
 	using namespace System::Drawing;
+	using namespace System::Collections::Generic;
 
 	/// <summary>
 	/// Summary for MyForm
@@ -25,6 +26,7 @@ namespace LearningGit01 {
 			//
 			//TODO: Add the constructor code here
 			//
+			myStudents = gcnew List<String^>();
 		}
 
 	protected:
@@ -36,6 +38,7 @@ namespace LearningGit01 {
 			if (components)
 			{
 				delete components;
+				components = nullptr;
 			}
 		}
 
@@ -44,6 +47,7 @@ namespace LearningGit01 {
 		/// Required designer variable.
 		/// </summary>
 		System::ComponentModel::Container ^components;
+		List<String^>^ myStudents;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
