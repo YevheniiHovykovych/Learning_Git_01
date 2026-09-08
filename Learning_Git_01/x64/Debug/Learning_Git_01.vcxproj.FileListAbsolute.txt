@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\Learning_Git_01\x64\Debug\Ijwhost.dll
+C:\Users\HP\source\repos\Learning_Git_01\x64\Debug\Learning_Git_01.deps.json
+C:\Users\HP\source\repos\Learning_Git_01\x64\Debug\Learning_Git_01.runtimeconfig.json
+C:\Users\HP\source\repos\Learning_Git_01\Learning_Git_01\x64\Debug\Learning_Git_01.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Learning_Git_01\Learning_Git_01\x64\Debug\Learning_Git_01.genruntimeconfig.cache
