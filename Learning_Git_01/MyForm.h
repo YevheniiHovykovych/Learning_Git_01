@@ -1,5 +1,7 @@
 // MyForm.h
 
+#include "header.h"
+
 #pragma once
 
 namespace LearningGit01 {
@@ -56,9 +58,9 @@ namespace LearningGit01 {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(282, 253);
+			this->ClientSize = System::Drawing::Size(582, 253);
 			this->Name = L"MyForm";
-			this->Text = L"MyForm";
+			this->Text = L"Student Manager";
 			this->ResumeLayout(false);
 
 		}
