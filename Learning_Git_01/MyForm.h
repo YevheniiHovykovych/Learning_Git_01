@@ -47,7 +47,7 @@ namespace LearningGit01 {
 		/// Required designer variable.
 		/// </summary>
 		System::ComponentModel::Container ^components;
-		List<String^>^ myStudents;
+	private: List<String^>^ myStudents;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
